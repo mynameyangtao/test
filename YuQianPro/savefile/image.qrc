@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/back">
+        <file>image/green_img.png</file>
+        <file>image/mybackgroundimage.jpg</file>
+        <file>image/red_img.jpg</file>
+        <file>image/main_background.png</file>
+        <file>image/backimg1.jpg</file>
+        <file>image/1.jpg</file>
+        <file>image/2.jpg</file>
+        <file>image/6.png</file>
+        <file>image/HangingBasket.jpg</file>
+        <file>image/BG.jpg</file>
+        <file>image/BG1.jpg</file>
+        <file>image/123.jpg</file>
+        <file>image/right.png</file>
+        <file>image/left.png</file>
+    </qresource>
+</RCC>
